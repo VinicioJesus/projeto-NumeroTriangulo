@@ -60,5 +60,6 @@ public class NumeroTriangulo {
 		} else {
 			System.out.print(" Sinto muito, não é um triângulo!");
 		}
+		System.out.print("Fim");
 	}
 }
